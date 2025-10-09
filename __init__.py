@@ -1,6 +1,6 @@
 bl_info = {
     "name": "Geo Match",
-    "author": "Your Name",
+    "author": "Robert Rioux / Blender Bob",
     "version": (3, 7),
     "blender": (4, 2, 0),
     "location": "View3D > Sidebar > Edit Tab",
